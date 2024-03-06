@@ -8,7 +8,7 @@ Included all the commands that I have used so far
 #### subscription-manager clean
 
 # To Register the Clients
-#### subscription-manager register --org="ADEK" --environment="Library" --force
+#### subscription-manager register --org="ORG-Name" --environment="Library" --force
 
 # Examples to enable repos through CLI
 
