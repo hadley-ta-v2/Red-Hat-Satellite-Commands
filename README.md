@@ -49,7 +49,7 @@ subscription-manager list --available
 Attach a pool with the following command:
 
 ```sh
-subscription-manager attach --pool=8a7beec875a75ed20179a7683b150b66
+subscription-manager attach --pool=<pool_id>
 ```
 
 ## Common Issues
